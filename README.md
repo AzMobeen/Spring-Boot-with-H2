@@ -17,6 +17,10 @@ Demo project for beginners with H2 DB (In Memory Data Base)
     [http://localhost:8080/h2-console](http://localhost:8080/h2-console)
     
     
+### Rebase and fork with master steps:
+* commit your local changes
+* need to do fetch.
+* test
 
 
     
