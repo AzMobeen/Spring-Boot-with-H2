@@ -8,7 +8,7 @@ Demo project for beginners with H2 DB (In Memory Data Base)
 * Rest
 * JSON (Parent child relation)
 * ApplicationRunner
-
+* testing from local/fork
 # Notes:
 
 * You can check H2-Console:
