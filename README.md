@@ -11,6 +11,7 @@ Demo project for beginners with H2 DB (In Memory Data Base)
 * testing from local/fork
 # Notes:
 
+* update 3 from master
 * From Fork 2
 * You can check H2-Console:
     
